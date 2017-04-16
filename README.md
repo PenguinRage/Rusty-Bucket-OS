@@ -7,7 +7,7 @@ This is a hobby project I have decided to look in to. The purpose of the project
 # Running the project
 As recommended from Philipp Oppermann's blog, I will be using QEMU. To run the iso file built from the project.
 
-References:
-http://os.phil-opp.com/
-http://wiki.osdev.org/GRUB_2
-https://www.redox-os.org/docs/
+# References:
+![Philipp Oppermann's blog](http://os.phil-opp.com/)
+![Documenation on GRUB2](http://wiki.osdev.org/GRUB_2)
+![Redox OS - Rust Microkernal OS](https://www.redox-os.org/docs/)
