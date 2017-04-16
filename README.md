@@ -2,7 +2,7 @@
 Building a small hobby OS inspired by Philipp Oppermann's blog.
 
 Named after the worst level in Banjo Kazooie
-![Rusty Bucket Bay](http://1.bp.blogspot.com/-0A7SLhujO3I/Uuhu5XllY4I/AAAAAAAAAJc/gixRtN27MFQ/s1600/The+Xavi+Zone+Rusty+Bucket+Bay+Screenshot.jpg =250x)
+![Rusty Bucket Bay](https://steamuserimages-a.akamaihd.net/ugc/271715738873845023/425DB1B16FBDC7764B3AE5F35BE506B99B411FBF/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black)
 
 # About the project
 This is a hobby project I have decided to look in to. The purpose of the project was to help me learn Rust and give me a better understanding into Linux Kernals, GRUB2, dealing with other interesting problems involved with such builds.
